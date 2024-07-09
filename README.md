@@ -13,3 +13,9 @@
 
 本项目使用的数据集为story-based数据集，[新闻下载地址](https://drive.google.com/drive/folders/1rLrh5x5UlYskfbhhVyz523MKgmCDyuX2)，此外本项目为多模态假新闻检测，还需要下载相应图片，[图片下载地址](https://drive.google.com/drive/folders/11okt9IRDxXgfTr7Ae1wxl9CHZC1PphhC)。将下载好的数据集放到dataset_our目录下。
 
+# Run
+
+首先对数据进行清洗，将无图片或图片损坏的数据筛除，然后按照以下格式对数据进行预处理
+'''
+prit
+'''
