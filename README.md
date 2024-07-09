@@ -26,3 +26,8 @@ python dataset_preprocess_our.py
 ```
 python train_two_record_model.py
 ```
+
+# 实验结果
+|       | Acc | Rumor_R | Rumor_P | Rumor_F | N_Rumor_R | N_Rumor_P | N_Rumor_F |
+|-------|-----|---------|---------|---------|-----------|-----------|-----------|
+|LogicMD|
