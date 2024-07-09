@@ -28,6 +28,6 @@ python train_two_record_model.py
 ```
 
 # 实验结果
-|       | Acc | Rumor_R | Rumor_P | Rumor_F | N_Rumor_R | N_Rumor_P | N_Rumor_F |
-|-------|-----|---------|---------|---------|-----------|-----------|-----------|
-|LogicMD|
+|       |  Acc | Rumor_R | Rumor_P | Rumor_F | N_Rumor_R | N_Rumor_P | N_Rumor_F |
+|-------|------|---------|---------|---------|-----------|-----------|-----------|
+|LogicMD|0.5827|  0.5789 |  0.4198 |  0.4867 |	 0.5847  |	 0.7279  |	 0.6485  |
