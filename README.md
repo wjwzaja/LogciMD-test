@@ -11,7 +11,9 @@
 
 论文原始数据集下载地址：https://portland-my.sharepoint.com/:u:/g/personal/liuhui3-c_my_cityu_edu_hk/EYR-45i16q9EivlGM1ZCe9cBrPsuOjr8O9fziihKJPLIoA?e=2KVCFW
 
-本项目使用的数据集为story-based数据集，[新闻下载地址](https://drive.google.com/drive/folders/1rLrh5x5UlYskfbhhVyz523MKgmCDyuX2)，此外本项目为多模态假新闻检测，还需要下载相应图片，[图片下载地址](https://drive.google.com/drive/folders/11okt9IRDxXgfTr7Ae1wxl9CHZC1PphhC)。将下载好的数据集放到dataset_our目录下。
+本项目使用的数据集为story-based数据集，[新闻下载地址](https://drive.google.com/drive/folders/1rLrh5x5UlYskfbhhVyz523MKgmCDyuX2)，
+
+此外本项目为多模态假新闻检测，还需要下载相应图片，[图片下载地址](https://drive.google.com/drive/folders/11okt9IRDxXgfTr7Ae1wxl9CHZC1PphhC)。将下载好的数据集放到dataset_our目录下。
 
 # Run
 
