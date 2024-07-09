@@ -1,6 +1,6 @@
 # LogciMD-test
 # Dataset
-Interpretable Multimodal Misinformation Detection with Logic Reasoning
+**Interpretable Multimodal Misinformation Detection with Logic Reasoning**
 
 原文链接：https://aclanthology.org/2023.findings-acl.620
 
