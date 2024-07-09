@@ -18,5 +18,5 @@
 首先对数据进行清洗，将无图片或图片损坏的数据筛除，对数据进行预处理
 
 ```
-prit
+python dataset_preprocess_our.py
 ```
