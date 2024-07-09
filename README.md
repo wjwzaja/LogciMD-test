@@ -20,3 +20,9 @@
 ```
 python dataset_preprocess_our.py
 ```
+
+完成数据预处理后
+
+```
+python train_two_record_model.py
+```
